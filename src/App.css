@@ -1,0 +1,12 @@
+.project {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  grid-template-rows: 70px 1fr;
+  grid-template-areas: "h h" "n c";
+  width: 90%;
+  margin: auto
+ }
+
+
+ 
+ 
